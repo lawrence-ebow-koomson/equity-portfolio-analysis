@@ -27,10 +27,10 @@ This project analyzes the performance and risk characteristics of an equity port
 - matplotlib / plotly — visualizations
 
 
-## 🚀 How to Use
+##  How to Use
 Clone the repo and open the notebook in Jupyter:
 ```bash
-git clone https://github.com/meet-lawrence/equity-portfolio-analysis.git
+git clone https://github.com/lawrence-ebow-koomson/equity-portfolio-analysis.git
 cd equity-portfolio-analysis
 jupyter notebook "Investment Analysis on an Equity Portfolio.ipynb"
 
